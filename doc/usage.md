@@ -3,11 +3,14 @@
 平日每天早上記錄體溫。
 
 ## 記錄體溫
-
+### 填入帳號密碼後登入
+### 填上體溫，選擇耳溫或額溫，並按下記錄
 登入
-![](/static/img/index.png)
+![](/static/img/index.png)  
+
 填體溫
-![](/static/img/logged_in.png)
+![](/static/img/logged_in.png)  
+
 完成！
 ![](/static/img/result.png)
 
